@@ -3,15 +3,15 @@
 </p>
 
 <!-- - 🔭 I’m currently working in <a href="https://openform.pl/">Openform</a> company. <br/> -->
-- 🌱 I’m currently learning -> <a href="https://pl.python.org/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="25" height="25"/> </a> <br/>
+- 🌱 I’m currently learning -> <a href="https://pl.python.org/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="25" height="25"/> </a>  & JAVA<br/>
 <!-- - 👯 I’m looking to collaborate on <a href="https://github.com/Reckit075/flashcards_client" target="_blank">flash-cards app</a> (my side project). <br/>
 - ⚡ Fun fact: I love travelling :airplane: -->
 <hr/>
 
-<!-- **Conntact me:** 
+**Conntact me:** 
 <br/><br/>
 <a href="https://www.linkedin.com/in/michal-warszawski/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="m-warszawski" height="30" width="30"/></a>
-<a href="mailto:m.warszawski@outlook.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="m-warszawski" height="40" width="40" /></a>
+<!-- <a href="mailto:m.warszawski@outlook.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="m-warszawski" height="40" width="40" /></a>
 <hr/> -->
 
 **Languages and tools:**  
