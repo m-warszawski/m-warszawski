@@ -4,9 +4,7 @@
 
 <!-- - 🔭 I’m currently working in <a href="https://openform.pl/">Openform</a> company. <br/> -->
 - 🌱 I’m currently learning -> 
-<a href="https://pl.python.org/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="25" height="25"/> </a>  
-and  
-<a href="https://www.java.com/pl/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="25" height="25"/> </a><br/>
+<a href="https://pl.python.org/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="25" height="25"/> </a> and <a href="https://www.java.com/pl/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="25" height="25"/> </a><br/>
 <!-- - 👯 I’m looking to collaborate on <a href="https://github.com/Reckit075/flashcards_client" target="_blank">flash-cards app</a> (my side project). <br/>
 - ⚡ Fun fact: I love travelling :airplane: -->
 <hr/>
