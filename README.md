@@ -26,7 +26,7 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" style="padding-right:10px;" />
 <br/>
 <hr/>
 <!-- 
