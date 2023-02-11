@@ -24,5 +24,5 @@ I'm currently learning **Python** and **Java**.
 [![portfolio](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge&logo=ko-fi&logoColor=black)](https://mwarszawski.pl/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-warszawski/)
 
-## Other
-![visitors](https://visitor-badge.glitch.me/badge?page_id=m-warszawski)
+<!-- ## Other -->
+<!-- //![visitors](https://visitor-badge.glitch.me/badge?page_id=m-warszawski) -->
