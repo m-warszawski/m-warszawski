@@ -1,37 +1,28 @@
-### Hi there 👋
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Michał,Applied+Computer+Science+student&center=true&width=550&height=50"></a>
-</p>
 
-<!-- - 🔭 I’m currently working in <a href="https://openform.pl/">Openform</a> company. <br/> -->
-- 🌱 I’m currently learning -> 
-<a href="https://www.java.com/pl/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="20" height="35"/> </a><br/>
-<!-- - 👯 I’m looking to collaborate on <a href="https://github.com/Reckit075/flashcards_client" target="_blank">flash-cards app</a> (my side project). <br/>
-- ⚡ Fun fact: I love travelling :airplane: -->
-<hr/>
+# Hi, there! 👋
 
+My name is **Michał**.
 
-**Conntact me:** 
-<br/><br/>
-<a href="https://www.linkedin.com/in/michal-warszawski/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="m-warszawski" height="30" width="30"/></a>
-<!-- <a href="mailto:m.warszawski@outlook.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="m-warszawski" height="40" width="40" /></a>
-<hr/> -->
+I'm a **Applied Computer Science student**.
 
-**Languages and tools:**  
-<br/>
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="React Native" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="padding-right:10px;" /> 
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Microsoft SQL" width="26px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" /> 
-<br/>
-<hr/>
-<!-- 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=m-warszawski&show_icons=true&theme=gotham" alt="reckit075" /> -->
+I'm currently learning **Python** and **Java**.
 
+## 🛠 Skills
+
+ <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> 
+ <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> 
+ <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+ <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
+ <img align="left" alt="React Native" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="padding-right:10px;" />
+ <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>  <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+ <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
+ <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />            <img align="left" alt="Microsoft SQL" width="26px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" style="padding-right:10px;" />
+ <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> 
+<br>
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge&logo=ko-fi&logoColor=black)](https://mwarszawski.pl/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-warszawski/)
+
+## Other
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=m-warszawski)
