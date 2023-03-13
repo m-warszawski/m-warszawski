@@ -3,9 +3,9 @@
 
 My name is **Michał**.
 
-I'm a **Applied Computer Science student**.
+I'm an **Applied Computer Science student**.
 
-I'm currently learning **Python** and **Java**.
+I'm currently learning programming in the best lang - **Java**!
 
 ## 🛠 Skills
 
@@ -26,3 +26,6 @@ I'm currently learning **Python** and **Java**.
 
 <!-- ## Other -->
 <!-- //![visitors](https://visitor-badge.glitch.me/badge?page_id=m-warszawski) -->
+
+----
+<img src="https://i.pinimg.com/originals/d9/f2/3d/d9f23d656609f785c52dc4f9af2b95c1.jpg" width="100%" alt="greetings">
