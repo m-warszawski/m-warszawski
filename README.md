@@ -5,7 +5,7 @@ My name is **Michał**.
 
 I'm a **Applied Computer Science student**.
 
-I'm currently learning **Python** and **Java**.
+I'm currently learning **Python** and **Angular**.
 
 ## 🛠 Skills
 
