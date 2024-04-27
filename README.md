@@ -1,7 +1,7 @@
 
 # Hi, there! 👋
 
-<h4>My name is Michał. I am from Poland. </h4>
+<h3>My name is Michał. I am from Poland. </h3>
 
 ## 🚀 About Me
 
