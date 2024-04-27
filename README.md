@@ -1,11 +1,19 @@
 
 # Hi, there! 👋
 
-My name is **Michał**.
+<h4>My name is Michał. I am from Poland. </h4>
 
-I'm a **Applied Computer Science student**.
+## 🚀 About Me
 
-I'm currently learning **Python** and **Angular**.
+👨‍🎓 I'm a student of Applied Computer Science.
+
+👩‍💻 I'm currently working on organising and developing my existing projects.
+
+🧠 I'm currently learning Python and Vue JS.
+
+💬 Ask me about collaboration in some interesting project.
+
+📫 How to reach me: kontakt@mwarszawski.pl
 
 ## 🛠 Skills
 
@@ -16,7 +24,7 @@ I'm currently learning **Python** and **Angular**.
  <img align="left" alt="React Native" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="padding-right:10px;" />
  <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>  <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
  <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
- <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />            <img align="left" alt="Microsoft SQL" width="26px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" style="padding-right:10px;" />
+ <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />       <img align="left" alt="Microsoft SQL" width="26px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" style="padding-right:10px;" />
  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> 
 <br>
 
